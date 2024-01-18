@@ -30,7 +30,7 @@ Code summarization aims to automatically generate natural language descriptions 
 ### 2.2 Dataset
 *CSWPS* is evaluated on [PCS](https://github.com/pkuserc/MPCos_ASE2022.git) and [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) datasets.<br>
 
-Since *CSWPS* can be used on any encoder-decoder structure code annotation generation model. Due to the large space occupied by structured data, for convenience, we provide the [original data](https://drive.google.com/file/d/16v8scXpj6OkZ73RF9aduHQoSE6D1mRbu/view?usp=sharing).<br>
+Since *CSWPS* can be used on any encoder-decoder structure code annotation generation model. We provide the original data in `raw_data` folder.<br>
 
 For example, the CS model in this repository is based on SCRIPT. Therefore, if you want to reproduce the experimental results, you can refer to [SIT](https://github.com/gingasan/sit3) or [SCRIPT](https://github.com/GoneZ5/SCRIPT) and construct the corresponding structural data.
 
