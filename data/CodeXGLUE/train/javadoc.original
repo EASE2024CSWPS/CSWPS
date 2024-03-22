@@ -1,0 +1,10 @@
+returns true iff the current local or global transaction has been marked rollback only
+do any of the specified bd as or any of bd as accessible by them have any beans
+if this property is true the messages should be kept for the next request no matter if it is a normal postback case or a post - redirect - get case .
+test if a file is a symbolic link . test only the file . a symbolic link elsewhere in the path to the file is not detected .
+evaluate and return the group search scope .
+converts any generic exception to a sql exception .
+lidb2018 - 1 - added method .
+method that determines if the message can be sent .
+this method reverts the common configuration template for all cache instances to use dynaache defaults . this method only comes into play when object grid is configured as the cache provider for the default cache .
+resets the state of this invocation object - used by the pooling code .
